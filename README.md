@@ -3,7 +3,7 @@
 Building and training a convolutional neural network (Nvidia model) for end-to-end driving of a car in a simulator(Udacity) using TensorFlow and Keras
 
 #### attempt_x.ipynb
-  - shows my attempts to train the cnn model. After verifying the end-to-end driving in the simulator, using Image augmentation and Image data generation improved the model performance to generalise to new testing track. 
+  - shows my attempts to train the cnn model. After verifying the end-to-end driving in the simulator(https://github.com/udacity/self-driving-car-sim), using Image augmentation and Image data generation improved the model performance to generalise to new testing track. 
 
 #### final.ipynb 
   - is the final model.
